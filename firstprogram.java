@@ -1,4 +1,4 @@
-#program
+#Program
 
 public class firstprogram {
   
